@@ -23,6 +23,6 @@
 
 #### Classification and Detection Images (Top 10):
 
-! [img-1085] (https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-1085-_png.jpg)
+! [img-1085](https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-1085-_png.jpg)
 
 
