@@ -1,1 +1,18 @@
-WCE Bleed Gen Challenge
+## Evaluation Metrics
+
+### Classification:
+
+| Metric    | Value           |
+|-----------|-----------------|
+| Accuracy  | 0.9959          |
+| Precision | 0.9959          |
+| Recall    | 0.9959          |
+| F1-Score  | 0.9959          |
+
+### Detection:
+
+| Metric                        | Value                                   |
+|-------------------------------|-----------------------------------------|
+| Average Precision (AP50)      | 0.7464 (Bleeding), 1.0000 (Non Bleeding) |
+| Average Precision (AP75)      | 0.6021 (Bleeding), 1.0000 (Non Bleeding) |
+| Mean Average Precision (mAP)  | mAP_50: 0.8732, mAP_75: 0.8010          |
