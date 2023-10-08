@@ -23,13 +23,13 @@
 
 #### Classification and Detection Images (Top 10):
 
-1. ![img-1085](https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-1085-_png.jpg)
+1.  ![img-1085] (https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-1085-_png.jpg)
 
-2. ![img-1262](https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-1262-_png.jpg)
+2.  ![img-1262] (https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-1262-_png.jpg)
 
-3. ![img-238](https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-238-_png.jpg)
+3.  ![img-238] (https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-238-_png.jpg)
 
-4. ![img-254](https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-254-_png.jpg)
+4.  ![img-254] (https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/img-254-_png.jpg)
 
 #### Interpretability Plots (Top 10):
 
