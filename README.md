@@ -5,6 +5,7 @@
 - [Evaluation Metrics](#evaluation-metrics)
   - [Classification](#classification)
   - [Detection](#detection)
+- [Class IDs](#class-ids)
 - [Sample Images and Interpretability Plots](#sample-images-and-interpretability-plots)
   - [Validation Dataset](#validation-dataset)
     - [Classification and Detection Images (Top 10)](#classification-and-detection-images-top-10)
@@ -15,7 +16,12 @@
   - [Testing Dataset 2](#testing-dataset-2)
     - [Classification and Detection Images (Top 5)](#classification-and-detection-images-top-5)
     - [Interpretability Plots (Top 5)](#interpretability-plots-top-5)
-
+- [Folder Descriptions](#folder-descriptions)
+  - [images](#images)
+  - [interpretability_plot_eigen_cam](#interpretability_plot_eigen_cam)
+  - [excel](#excel)
+  - [weights](#weights)
+  - [notebooks](#notebooks)
 
 ## Evaluation Metrics
 
@@ -36,12 +42,25 @@
 | Average Precision (AP75)      | 0.6021 (Bleeding), 1.0000 (Non Bleeding) |
 | Mean Average Precision (mAP)  | mAP_50: 0.8732, mAP_75: 0.8010          |
 | IoU Results for Threshold 0.5: |                           |
-| Overall IoU - Bleeding class | 0.8588652482269504                    |
+| Overall IoU - Bleeding class | 0.858865                    |
 | Overall IoU - Non-Bleeding class | 1.0                                   |
 | IoU Results for Threshold 0.75: |                           |
-| Overall IoU - Bleeding class | 0.773758865248227                     |
+| Overall IoU - Bleeding class | 0.773758                     |
 | Overall IoU - Non-Bleeding class | 1.0                                   |
 
+## Class IDs
+
+In this project, the class IDs are defined as follows:
+
+### Classification Model:
+
+- Class 0: Non-Bleeding
+- Class 1: Bleeding
+
+### Object Detection Model:
+
+- Class 0: Bleeding
+- Class 1: Non-Bleeding
 
 ## Sample Images and Interpretability Plots
 
@@ -49,7 +68,7 @@
 
 #### Classification and Detection Images (Top 10):
 
-1.  <img src="https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0000_png.jpg" raw=true alt="img-1085" style="margin-right: 10px;" />
+1.  <img src="images/validation_set/img-1085-_png.jpg" raw=true alt="img-1085" style="margin-right: 10px;" />
 2.  <img src="images/validation_set/img-1262-_png.jpg" raw=true alt="img-1262" style="margin-right: 10px;" />
 3.  <img src="images/validation_set/img-238-_png.jpg" raw=true alt="img-238" style="margin-right: 10px;" />
 4.  <img src="images/validation_set/img-254-_png.jpg" raw=true alt="img-254" style="margin-right: 10px;" />
@@ -114,5 +133,47 @@
 4.  <img src="/interpretability_plot_eigen_cam/test_dataset_2/A0508_png.jpg" raw=true alt="A0508" style="margin-right: 10px;" />
 5.  <img src="/interpretability_plot_eigen_cam/test_dataset_2/A0062_png.jpg" raw=true alt="A0062" style="margin-right: 10px;" />
 
+
+## Folder Descriptions
+
+### `images`
+
+This folder contains image files used for classification and detection tasks. It includes subfolders for different datasets, such as `validation_set`, `test_dataset_1`, and `test_dataset_2`.
+
+- `validation_set`: Contains images from the validation dataset used for evaluation.
+- `test_dataset_1`: Contains images from the first testing dataset.
+- `test_dataset_2`: Contains images from the second testing dataset.
+
+### `interpretability_plot_eigen_cam`
+
+This folder contains interpretability plots generated using Eigen CAM for different datasets.
+
+- `validation_set`: Interpretability plots for the validation dataset.
+- `test_dataset_1`: Interpretability plots for the first testing dataset.
+- `test_dataset_2`: Interpretability plots for the second testing dataset.
+
+### `excel`
+
+The `excel` folder contains Excel files related to classification results and bounding box information for the testing datasets.
+
+- `test-1.xlsx`: Contains the classification results for Test Dataset 1.
+- `test-1_with_yolo_bbox.xlsx`: Contains the classification results for Test Dataset 1 with YOLO bounding box coordinates and confidence levels.
+- `test-2.xlsx`: Contains the classification results for Test Dataset 2.
+- `test-2_with_yolo_bbox.xlsx`: Contains the classification results for Test Dataset 2 with YOLO bounding box coordinates and confidence levels.
+
+### `weights`
+
+The `weights` folder contains pre-trained model weights used for the object detection and classification tasks.
+
+- `model_cls.h`: Contains the classification model weight trained using transfer learning with EfficientNet.
+- `best.pt`: Contains the object detection model weight trained with YOLOv8.
+
+### `notebooks`
+
+The `notebooks` folder contains Jupyter Notebook files used for various tasks in the project.
+
+- `Classification_Training_and_Validation.ipynb`: Notebook for training and validation of the classification model using EfficientNet transfer learning.
+- `ObjDet_Training_and_Validation.ipynb`: Notebook for training and validation of the object detection model using YOLOv8.
+- `Infer_on_custom_test_data.ipynb`: Notebook for testing on custom datasets and generating Excel files.
 
 
