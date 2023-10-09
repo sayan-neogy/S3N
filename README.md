@@ -33,6 +33,14 @@
 | Average Precision (AP50)      | 0.7464 (Bleeding), 1.0000 (Non Bleeding) |
 | Average Precision (AP75)      | 0.6021 (Bleeding), 1.0000 (Non Bleeding) |
 | Mean Average Precision (mAP)  | mAP_50: 0.8732, mAP_75: 0.8010          |
+| Intersection over Union (IoU): |                           |
+| IoU Results for Threshold 0.5  |                           |
+| Overall IoU for Bleeding class | 0.8588652482269504                    |
+| Overall IoU for Non-Bleeding class | 1.0                                   |
+| IoU Results for Threshold 0.75 |                           |
+| Overall IoU for Bleeding class | 0.773758865248227                     |
+| Overall IoU for Non-Bleeding class | 1.0                                   |
+
 
 ## Sample Images and Interpretability Plots
 
