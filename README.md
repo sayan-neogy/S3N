@@ -138,19 +138,19 @@ In this project, the class IDs are defined as follows:
 
 ### `images`
 
-This folder contains image files used for classification and detection tasks. It includes subfolders for different datasets, such as `validation_set`, `test_dataset_1`, and `test_dataset_2`.
+This folder contains image files predicted with classification and detection models. It includes subfolders for different datasets, such as `validation_set`, `test_dataset_1`, and `test_dataset_2`.
 
-- `validation_set`: Contains images from the validation dataset used for evaluation.
-- `test_dataset_1`: Contains images from the first testing dataset.
-- `test_dataset_2`: Contains images from the second testing dataset.
+- `validation_set`: Contains predicted images with bounding box and confidence level from the validation dataset used for evaluation.
+- `test_dataset_1`: Contains predicted images with bounding box and confidence level from the Test Dataset 1 used for evaluation.
+- `test_dataset_2`: Contains predicted images with bounding box and confidence level from the Test Dataset 2 used for evaluation.
 
 ### `interpretability_plot_eigen_cam`
 
 This folder contains interpretability plots generated using Eigen CAM for different datasets.
 
 - `validation_set`: Interpretability plots for the validation dataset.
-- `test_dataset_1`: Interpretability plots for the first testing dataset.
-- `test_dataset_2`: Interpretability plots for the second testing dataset.
+- `test_dataset_1`: Interpretability plots for the Test Dataset 1.
+- `test_dataset_2`: Interpretability plots for the Test Dataset 2.
 
 ### `excel`
 
@@ -172,9 +172,9 @@ The `weights` folder contains pre-trained model weights used for the object dete
 
 The `notebooks` folder contains Jupyter Notebook files used for various tasks in the project.
 
-- `Classification_Training_and_Validation.ipynb`: Notebook for training and validation of the classification model using EfficientNet transfer learning.
-- `ObjDet_Training_and_Validation.ipynb`: Notebook for training and validation of the object detection model using YOLOv8.
-- `Infer_on_custom_test_data.ipynb`: Notebook for testing on custom datasets and generating Excel files.
+- `Classification_Training_and_Validation.ipynb`: Notebook used for training and validation of the classification model using EfficientNet transfer learning.
+- `ObjDet_Training_and_Validation.ipynb`: Notebook used for training and validation of the object detection model using YOLOv8.
+- `Infer_on_custom_test_data.ipynb`: Notebook used for testing on custom datasets and generating Excel files.
 
 
 
