@@ -40,12 +40,12 @@
 
 #### Classification and Detection Images (Top 10):
 
-1.  ![img-1085](/images/validation_set/img-1085-_png.jpg)
-2.  ![img-1262](images/validation_set/img-1262-\_png.jpg)
-3.  ![img-238](https://raw.githubusercontent.com/sayan-neogy/S3N/main/images/validation_set/img-238-_png.jpg)
-4.  ![img-254](https://raw.githubusercontent.com/sayan-neogy/S3N/main/images/validation_set/img-254-_png.jpg)
-5.  ![img-301](https://raw.githubusercontent.com/sayan-neogy/S3N/main/images/validation_set/img-301-_png.jpg)
-6.  ![img-450](https://raw.githubusercontent.com/sayan-neogy/S3N/main/images/validation_set/img-450-_png.jpg)
+1.  ![img-1085](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-1085-_png.jpg)
+2.  ![img-1262](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-1262-_png.jpg)
+3.  ![img-238](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-238-_png.jpg)
+4.  ![img-254](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-254-_png.jpg)
+5.  ![img-301](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-301-_png.jpg)
+6.  ![img-450](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-450-_png.jpg)
 7.  ![img-466](https://raw.githubusercontent.com/sayan-neogy/S3N/main/images/validation_set/img-466-_png.jpg)
 8.  ![img-553](https://raw.githubusercontent.com/sayan-neogy/S3N/blob/main/images/validation_set/img-553-_png.jpg)
 9.  ![img-765](https://raw.githubusercontent.com/sayan-neogy/S3N/blob/main/images/validation_set/img-765-_png.jpg)
@@ -68,9 +68,9 @@
 
 #### Classification and Detection Images (Top 5):
 
-1. ![A0000](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0000_png.jpg)
-2. ![A0003](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0003_png.jpg)
-3. ![A046](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0046_png.jpg)
+1. ![A0000](https://github.com/sayan-neogy/S3N/main/images/test_dataset_1/A0000_png.jpg)
+2. ![A0003](https://github.com/sayan-neogy/S3N/main/images/test_dataset_1/A0003_png.jpg)
+3. ![A046](https://github.com/sayan-neogy/S3N/main/images/test_dataset_1/A0046_png.jpg)
 4. ![A0047](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0047_png.jpg)
 5. ![A0049](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0049_png.jpg)
 
