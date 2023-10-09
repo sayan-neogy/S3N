@@ -42,12 +42,7 @@
 
 1.  ![img-1085](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-1085-_png.jpg)
 
-<img
-src=“images/validation_set/img-1085-_png.jpg”
-raw=true
-alt=“img-1085”
-style=“margin-right: 10px;”
-/>
+<img src="images/validation_set/img-1085-_png.jpg" raw=true alt="img-1085" style="margin-right: 10px;" />
 
 2.  ![img-1262](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-1262-_png.jpg)
 3.  ![img-238](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-238-_png.jpg)
