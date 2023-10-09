@@ -40,66 +40,70 @@
 
 #### Classification and Detection Images (Top 10):
 
-1.  ![img-1085](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-1085-_png.jpg)
+1.  <img src="images/validation_set/img-1085-_png.jpg" raw=true alt="img-1085" style="margin-right: 10px;" />
+2.  <img src="images/validation_set/img-1262-_png.jpg" raw=true alt="img-1262" style="margin-right: 10px;" />
+3.  <img src="images/validation_set/img-238-_png.jpg" raw=true alt="img-238" style="margin-right: 10px;" />
+4.  <img src="images/validation_set/img-254-_png.jpg" raw=true alt="img-254" style="margin-right: 10px;" />
+5.  <img src="images/validation_set/img-301-_png.jpg" raw=true alt="img-301" style="margin-right: 10px;" />
+6.  <img src="images/validation_set/img-450-_png.jpg" raw=true alt="img-450" style="margin-right: 10px;" />
+7.  <img src="images/validation_set/img-466-_png.jpg" raw=true alt="img-466" style="margin-right: 10px;" />
+8.  <img src="images/validation_set/img-553-_png.jpg" raw=true alt="img-553" style="margin-right: 10px;" />
+9.  <img src="images/validation_set/img-765-_png.jpg" raw=true alt="img-765" style="margin-right: 10px;" />
+10.  <img src="images/validation_set/img-860-_png.jpg" raw=true alt="img-860" style="margin-right: 10px;" />
 
-<img src="images/validation_set/img-1085-_png.jpg" raw=true alt="img-1085" style="margin-right: 10px;" />
-
-2.  ![img-1262](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-1262-_png.jpg)
-3.  ![img-238](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-238-_png.jpg)
-4.  ![img-254](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-254-_png.jpg)
-5.  ![img-301](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-301-_png.jpg)
-6.  ![img-450](https://github.com/sayan-neogy/S3N/main/images/validation_set/img-450-_png.jpg)
-7.  ![img-466](https://raw.githubusercontent.com/sayan-neogy/S3N/main/images/validation_set/img-466-_png.jpg)
-8.  ![img-553](https://raw.githubusercontent.com/sayan-neogy/S3N/blob/main/images/validation_set/img-553-_png.jpg)
-9.  ![img-765](https://raw.githubusercontent.com/sayan-neogy/S3N/blob/main/images/validation_set/img-765-_png.jpg)
-10.  ![img-860](https://raw.githubusercontent.com/sayan-neogy/S3N/blob/main/images/validation_set/img-860-_png.jpg)
 
 #### Interpretability Plots (Top 10):
 
-1.  ![img-1085](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-1085-_png.jpg)
-2.  ![img-1262](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-1262-_png.jpg)
-3.  ![img-238](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-238-_png.jpg)
-4.  ![img-254](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-254-_png.jpg)
-5.  ![img-301](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-301-_png.jpg)
-6.  ![img-450](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-450-_png.jpg)
-7.  ![img-466](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-466-_png.jpg)
-8.  ![img-553](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-553-_png.jpg)
-9.  ![img-765](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-765-_png.jpg)
-10.  ![img-860](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/validation_set/img-860-_png.jpg)
+1.  <img src="interpretability_plot_eigen_cam/validation_set/img-1085-_png.jpg" raw=true alt="img-1085" style="margin-right: 10px;" />
+2.  <img src="interpretability_plot_eigen_cam/validation_set/img-1262-_png.jpg" raw=true alt="img-1262" style="margin-right: 10px;" />
+3.  <img src="interpretability_plot_eigen_cam/validation_set/img-238-_png.jpg" raw=true alt="img-238" style="margin-right: 10px;" />
+4.  <img src="interpretability_plot_eigen_cam/validation_set/img-254-_png.jpg" raw=true alt="img-254" style="margin-right: 10px;" />
+5.  <img src="interpretability_plot_eigen_cam/validation_set/img-301-_png.jpg" raw=true alt="img-301" style="margin-right: 10px;" />
+6.  <img src="interpretability_plot_eigen_cam/validation_set/img-450-_png.jpg" raw=true alt="img-450" style="margin-right: 10px;" />
+7.  <img src="interpretability_plot_eigen_cam/validation_set/img-466-_png.jpg" raw=true alt="img-466" style="margin-right: 10px;" />
+8.  <img src="interpretability_plot_eigen_cam/validation_set/img-553-_png.jpg" raw=true alt="img-553" style="margin-right: 10px;" />
+9.  <img src="interpretability_plot_eigen_cam/validation_set/img-765-_png.jpg" raw=true alt="img-765" style="margin-right: 10px;" />
+10.  <img src="interpretability_plot_eigen_cam/validation_set/img-860-_png.jpg" raw=true alt="img-860" style="margin-right: 10px;" />
+
 
 ### Testing Dataset 1:
 
 #### Classification and Detection Images (Top 5):
 
-1. ![A0000](https://github.com/sayan-neogy/S3N/main/images/test_dataset_1/A0000_png.jpg)
-2. ![A0003](https://github.com/sayan-neogy/S3N/main/images/test_dataset_1/A0003_png.jpg)
-3. ![A046](https://github.com/sayan-neogy/S3N/main/images/test_dataset_1/A0046_png.jpg)
-4. ![A0047](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0047_png.jpg)
-5. ![A0049](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0049_png.jpg)
+1.  <img src="images/test_dataset_1/A0000_png.jpg" raw=true alt="A0000" style="margin-right: 10px;" />
+2.  <img src="images/test_dataset_1/A0003_png.jpg" raw=true alt="A0003" style="margin-right: 10px;" />
+3.  <img src="images/test_dataset_1/A0046_png.jpg" raw=true alt="A0046" style="margin-right: 10px;" />
+4.  <img src="images/test_dataset_1/A0047_png.jpg" raw=true alt="A0047" style="margin-right: 10px;" />
+5.  <img src="images/test_dataset_1/A0049_png.jpg" raw=true alt="A0049" style="margin-right: 10px;" />
+
 
 #### Interpretability Plots (Top 5):
 
-1. ![A0000](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_1/A0000_png.jpg)
-2. ![A0003](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_1/A0003_png.jpg)
-3. ![A046](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_1/A0046_png.jpg)
-4. ![A0047](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_1/A0047_png.jpg)
-5. ![A0049](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_1/A0049_png.jpg)
+1.  <img src="interpretability_plot_eigen_cam/test_dataset_1/A0000_png.jpg" raw=true alt="A0000" style="margin-right: 10px;" />
+2.  <img src="interpretability_plot_eigen_cam/test_dataset_1/A0003_png.jpg" raw=true alt="A0003" style="margin-right: 10px;" />
+3.  <img src="interpretability_plot_eigen_cam/test_dataset_1/A0046_png.jpg" raw=true alt="A0046" style="margin-right: 10px;" />
+4.  <img src="interpretability_plot_eigen_cam/test_dataset_1/A0047_png.jpg" raw=true alt="A0047" style="margin-right: 10px;" />
+5.  <img src="interpretability_plot_eigen_cam/test_dataset_1/A0049_png.jpg" raw=true alt="A0049" style="margin-right: 10px;" />
 
 
 ### Testing Dataset 2:
 
 #### Classification and Detection Images (Top 5):
 
-1. ![A0508](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_2/A0508_png.jpg)
-2. ![A0062](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_2/A0062_png.jpg)
-3. ![A0472](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_2/A0472_png.jpg)
-4. ![A0470](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_2/A0470_png.jpg)
-5. ![A0469](https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_2/A0469_png.jpg)
+1.  <img src="/images/test_dataset_2/A0508_png.jpg" raw=true alt="A0508" style="margin-right: 10px;" />
+2.  <img src="/images/test_dataset_2/A0062_png.jpg" raw=true alt="A0062" style="margin-right: 10px;" />
+3.  <img src="/images/test_dataset_2/A0472_png.jpg" raw=true alt="A0472" style="margin-right: 10px;" />
+4.  <img src="/images/test_dataset_2/A0470_png.jpg" raw=true alt="A0470" style="margin-right: 10px;" />
+5.  <img src="/images/test_dataset_2/A0469_png.jpg" raw=true alt="A0469" style="margin-right: 10px;" />
+
 
 #### Interpretability Plots (Top 5):
 
-1. ![A0508](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_2/A0508_png.jpg)
-2. ![A0062](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_2/A0062_png.jpg)
-3. ![A0472](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_2/A0472_png.jpg)
-4. ![A0470](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_2/A0470_png.jpg)
-5. ![A0469](https://github.com/sayan-neogy/S3N/blob/main/interpretability_plot_eigen_cam/test_dataset_2/A0469_png.jpg)
+1.  <img src="/interpretability_plot_eigen_cam/test_dataset_2/A0469_png.jpg" raw=true alt="A0469" style="margin-right: 10px;" />
+2.  <img src="/interpretability_plot_eigen_cam/test_dataset_2/A0470_png.jpg" raw=true alt="A0470" style="margin-right: 10px;" />
+3.  <img src="/interpretability_plot_eigen_cam/test_dataset_2/A0472_png.jpg" raw=true alt="A0472" style="margin-right: 10px;" />
+4.  <img src="/interpretability_plot_eigen_cam/test_dataset_2/A0508_png.jpg" raw=true alt="A0508" style="margin-right: 10px;" />
+5.  <img src="/interpretability_plot_eigen_cam/test_dataset_2/A0062_png.jpg" raw=true alt="A0062" style="margin-right: 10px;" />
+
+
+
