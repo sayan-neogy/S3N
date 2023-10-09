@@ -1,3 +1,5 @@
+<a href="https://colab.research.google.com/drive/1LcSXLnn0WLDUz1EgJ_QNwWOtqShnsIpN#scrollTo=3v7fu8ZSa8D6" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Contents
 
 - [Evaluation Metrics](#evaluation-metrics)
@@ -47,7 +49,7 @@
 
 #### Classification and Detection Images (Top 10):
 
-1.  <img src="images/validation_set/img-1085-_png.jpg" raw=true alt="img-1085" style="margin-right: 10px;" />
+1.  <img src="https://github.com/sayan-neogy/S3N/blob/main/images/test_dataset_1/A0000_png.jpg" raw=true alt="img-1085" style="margin-right: 10px;" />
 2.  <img src="images/validation_set/img-1262-_png.jpg" raw=true alt="img-1262" style="margin-right: 10px;" />
 3.  <img src="images/validation_set/img-238-_png.jpg" raw=true alt="img-238" style="margin-right: 10px;" />
 4.  <img src="images/validation_set/img-254-_png.jpg" raw=true alt="img-254" style="margin-right: 10px;" />
