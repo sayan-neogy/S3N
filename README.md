@@ -97,7 +97,7 @@ In this project, the class IDs are defined as follows:
 ### Testing Dataset 1:
 
 #### Classification and Detection Images (Top 5):
-![A0000](https://github.com/sayan-neogy/S3N/blob/main/images/validation_set/A0000_png.jpg?raw=true)
+
 1.  <img src="images/test_dataset_1/A0000_png.jpg" raw=true alt="A0000" style="margin-right: 10px;" />
 2.  <img src="images/test_dataset_1/A0003_png.jpg" raw=true alt="A0003" style="margin-right: 10px;" />
 3.  <img src="images/test_dataset_1/A0046_png.jpg" raw=true alt="A0046" style="margin-right: 10px;" />
