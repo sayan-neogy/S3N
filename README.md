@@ -1,3 +1,6 @@
+#S3N
+AUTOMATED SCREENING VIA TWO-STAGE DEEP LEARNING: A PIPELINE FOR CLASSIFICATION AND LOCALIZATION OF BLEEDING FROM WIRELESS CAPSULE ENDOSCOPY VISUALS.
+
 <a href="https://colab.research.google.com/drive/1LcSXLnn0WLDUz1EgJ_QNwWOtqShnsIpN#scrollTo=3v7fu8ZSa8D6" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Contents
