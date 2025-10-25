@@ -1,5 +1,12 @@
 # S3N
 AUTOMATED SCREENING VIA TWO-STAGE DEEP LEARNING: A PIPELINE FOR CLASSIFICATION AND LOCALIZATION OF BLEEDING FROM WIRELESS CAPSULE ENDOSCOPY VISUALS.
+**Author:** Sayan Neogy  
+**Affiliation:** M.Sc. Data Science, Swami Vivekananda University, Kolkata, India  
+
+This repository demonstrates my implementation of a two-stage deep learning pipeline for the classification and localization of bleeding in Wireless Capsule Endoscopy visuals. The project integrates EfficientNet for classification and YOLOv8 for detection, with Eigen-CAM for model interpretability.  
+
+The goal was to develop a deep learning framework that integrates classification and localization to improve diagnostic accuracy and interpretability in endoscopic imaging while maintaining practical inference speed. The project analyzed the balance between detection accuracy, model complexity, and interpretability using metrics such as mAP, IoU, and Eigen-CAM visualizations.
+
 
 <a href="https://colab.research.google.com/drive/1LcSXLnn0WLDUz1EgJ_QNwWOtqShnsIpN#scrollTo=3v7fu8ZSa8D6" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
